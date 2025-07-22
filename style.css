@@ -142,7 +142,6 @@ body{
         display:none;
     }
     .icons{
-        /* display:none; */
         /* border:2px solid red; */
         position:absolute;
         right:30px;
@@ -150,8 +149,8 @@ body{
     }
     .hero{
         gap:10px;
-        height:40vh;
         justify-content: center;
+        
     }
     .left{
         padding:30px;
@@ -174,6 +173,7 @@ body{
     }
     .items{
         padding:0;
+        margin-top:12px;
         display:flex;
         flex-wrap: wrap;
         grid-template-columns:repeat(2,auto);
