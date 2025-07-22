@@ -1,6 +1,6 @@
 body{
     color:white;
-    background:url('/images/Background.png');
+    background:url('images/Background.png');
     margin:0;
     padding:0;
 }
@@ -84,7 +84,7 @@ body{
     padding:5px 15px;
 }
 .food{
-    background:url('/images/food.png');
+    background:url('images/food.png');
     width:500px;
     height:500px;
     border:2px solid white;
@@ -110,19 +110,19 @@ body{
     border-radius:50%;
 }
 #food1{
-    background: url('/images/food1.png');
+    background: url('images/food1.png');
     background-size: cover;
 }
 #food2{
-    background: url('/images/food2.png');
+    background: url('images/food2.png');
     background-size: cover;
 }
 #food3{
-    background: url('/images/food3.png');
+    background: url('images/food3.png');
     background-size: cover;
 }
 #food4{
-    background: url('/images/food4.png');
+    background: url('images/food4.png');
     background-size: cover;
 }
 @keyframes move {
